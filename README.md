@@ -1,7 +1,7 @@
 # Habits
  Application where the user can keep track of their daily tasks routine.
 
-This is a project part of a course by the company 'Rocketseat'. It is an application where the user can keep track of their daily tasks routine.
+This is a project part of a course by the company 'Rocketseat'. It is an application where the user can keep track of their daily tasks routine. The data is storaged in the localStorage within the browser.
 
 [🔗 Click here to access it](https://julianacostas.github.io/Habits/)
 
