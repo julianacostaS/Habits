@@ -11,8 +11,8 @@ form.addEventListener('change', save)
 function add() {
 
     // get current date and take out the year by using .slice
-    // const today = new Date().toLocaleDateString().slice(0, -5)
-
+    const today = new Date().toLocaleDateString().slice(0, -5)
+        // If want to add the days manually use - const today = "16/02" - and comment the above code
     const dayExists = habitsApp.dayExists(today)
 
     // use an if statement to check whether the day has already been included.
